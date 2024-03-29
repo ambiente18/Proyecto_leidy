@@ -1,0 +1,92 @@
+body{
+    background-color:white;
+}
+h1{
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#Módulos
+#producto {
+    background-color:white;
+    width: 600px;
+    height: 500px;
+    float: left;
+    margin-right: 40px;
+}
+#encabezado{
+    
+    height: 30px;
+}
+#titulo{
+    text-align: center;
+    padding-top: 12px;
+    font-size: 20px;
+    height: 30px;
+    margin-top: 70px;
+}
+#titulo-1{
+    margin-bottom: 30px;
+}
+#cuerpo{
+    height: 300px;
+    text-align:center;
+    padding-top: 60px;
+}
+#pie{
+    background-color: beige;
+}
+#descripción{
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: white;
+}
+#menu{
+    text-align: center;
+    font-size: 40px;
+}
+#cuerpo-1{
+    background-color:white;
+    text-align: center;
+    padding-top: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 50px;
+}
+#text{
+    background-color: forestgreen;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 50px;
+}
+#descripción-1{
+    background-color: forestgreen;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 50px;
+    
+}
+#busqueda{
+    background-color: forestgreen;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 50px;
+}
+#menu-1{
+    background-color: forestgreen;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 30px; 
+}
